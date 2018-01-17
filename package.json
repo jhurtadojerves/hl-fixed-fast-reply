@@ -1,0 +1,12 @@
+{
+  "name": "fixed-fast-reply",
+  "version": "1.0.0",
+  "description": "Change the position of the fast reply in HL Forum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julio Hurtado <juliohurtado.backend@gmail.com> (https://juliohurtado.github.io)",
+  "license": "ISC",
+  "dependencies": {}
+}
